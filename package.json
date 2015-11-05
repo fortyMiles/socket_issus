@@ -4,11 +4,12 @@
   "description": "chat server for realtime",
   "dependencies": {
     "express": "^4.10.2",
+    "jquery": "^2.1.4",
     "socket.io": "^1.3.7"
   },
-  "repository":{
-      "type": "git",
-      "url": "https://github.com/fortyMiles/realtime_communication.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fortyMiles/realtime_communication.git"
   },
   "license": "Apache-2.0"
 }
