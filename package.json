@@ -1,8 +1,14 @@
 {
   "name": "socket-chat",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "chat server for realtime",
   "dependencies": {
-    "express": "^4.10.2"
-  }
+    "express": "^4.10.2",
+    "socket.io": "^1.3.7"
+  },
+  "repository":{
+      "type": "git",
+      "url": "https://github.com/fortyMiles/realtime_communication.git"
+  },
+  "license": "Apache-2.0"
 }
